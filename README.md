@@ -10,7 +10,7 @@ This repo contains a minimal, **production-ready starter** that:
 
 ## Screenshot
 
-![AI Flow Generator Interface](./Screenshot.png)
+![AI Flow Generator Interface](./screenshot.png)
 
 ---
 
